@@ -640,7 +640,7 @@ Then, an hour later...
 
 160
 00:06:51,505 --> 00:06:54,791
-"Oh, you're still here?" I say, 
+"Oh, you're still here?" I say,
 
 161
 00:06:54,855 --> 00:06:57,799
@@ -1838,8 +1838,7 @@ Transcript : Raceman
 Subtitles : Willow's Team
 www.forom.com
 
-
-
 0
-00:00:0,500 --> 00:00:2,00
+00:00:00,500 --> 00:00:02,000
 <font color="#ffff00" size=14>www.tvsubtitles.net</font>
+
